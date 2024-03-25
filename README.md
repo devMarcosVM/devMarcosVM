@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/fwzWJPb0fgZ5Vhfi2o" width="480" height="154" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/developer-germano-obrunogermano-fwzWJPb0fgZ5Vhfi2o">via GIPHY</a></p>
+
 # 💫 SOBRE MIM:
 🖥 Futuro Engenheiro de Software<br>📚 Estudante pela Universidade de Brasília
 
