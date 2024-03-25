@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/fwzWJPb0fgZ5Vhfi2otps://giphy.com/embed/fwzWJPb0fgZ5Vhfi2o">
+<img src="intro.gif" width="480" height="154>
 
 # 💫 SOBRE MIM:
 🖥 Futuro Engenheiro de Software<br>📚 Estudante pela Universidade de Brasília
