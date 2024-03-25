@@ -1,6 +1,6 @@
-<img src="intro.gif" width="480" height="154>
+<img src="intro.gif" width="480" height="154" align="center" alt="intro">
 
-# 💫 SOBRE MIM:
+# SOBRE MIM:
 🖥 Futuro Engenheiro de Software<br>📚 Estudante pela Universidade de Brasília
 
 
