@@ -1,7 +1,7 @@
 <img src="intro.gif" width="480" height="154" align="center" alt="intro">
 
-# SOBRE MIM:
-🖥 Futuro Engenheiro de Software<br>📚 Estudante pela Universidade de Brasília
+# About me:
+🖥 I will become a Software Engineering<br>📚 Student of University of Brasilia
 
 
 ## 🌐 Socials:
