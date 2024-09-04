@@ -1,7 +1,7 @@
 <img src="intro.gif" width="480" height="154" align="center" alt="intro">
 
 # About me:
-🖥 I will become a Software Engineering<br>📚 Student of University of Brasilia
+Software Engineering Student at the University of Brasilia (UnB)
 
 
 ## 🌐 Socials:
